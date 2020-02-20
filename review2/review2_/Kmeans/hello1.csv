@@ -1,0 +1,29 @@
+Break in iteration 5
+
+Cluster 1
+Point 1: 2 10 
+Point 4: 2 2 
+Point 6: 3 6 
+Point 7: 2 10 
+Point 8: 2 5 
+Point 10: 5 8 
+Point 12: 6 4 
+Point 13: 1 2 
+Point 14: 4 9 
+Point 15: 2 6 
+Point 17: 5 5 
+Point 21: 2 10 
+Point 2: 7 3 
+Point 9: 8 4 
+Point 11: 7 5 
+Point 3: 8 8 
+Point 16: 9 6 
+Point 5: 10 10 
+Cluster values: 4.72222 6.27778 
+
+Cluster 2
+Point 18: 10 17 
+Point 19: 20 32 
+Point 20: 10 13 
+Cluster values: 13.3333 20.6667 
+
