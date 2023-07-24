@@ -14,7 +14,9 @@ Vehicles in VANETs are typically equipped with On Board Units (OBUs) that allows
 * The main objective is that it exploits the mobility of carriers (vehicles) that ads can spread rapidly within a short time as carriers are moving from one place to another and can always forward ads to new vehicles they come across.
 
 ### Overall Architecture
-![Uploading image.png…]()
+![Capture](https://github.com/Keerthu8999/LocationBasedAdVANET/assets/26524891/96f463f4-5dfb-46b1-8a19-1d6a1c628b11)
+
+
 
 
 ### Working Principle 
